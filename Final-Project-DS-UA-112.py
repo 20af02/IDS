@@ -279,7 +279,7 @@ warnings.filterwarnings("ignore")
 # ### Seeding the random number generator with my student ID
 
 # %%
-N_NUMBER = 14254767
+N_NUMBER = 0
 random.seed(N_NUMBER)
 
 # %% [markdown]
